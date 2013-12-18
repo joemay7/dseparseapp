@@ -1,0 +1,18 @@
+{
+    "applications": {
+        "DSE Parse App": {
+            "applicationId": "J6OaYoQbY2YEoScbqhlvlTfLw9XE8HMoRT9CKpK7", 
+            "masterKey": "UkbMImjL88kafce4HznJkn0s3gOv2tXpY40Wvgc5"
+        }, 
+        "DseTestApp": {
+            "applicationId": "dV9JWO1yU3bSvel6S4gSN4mvH9OYRxFA7P4482CQ", 
+            "masterKey": "bn9vkNIE2Ag49rOwX2DF8NNFSr0oTzxodJ4ijvNx"
+        }, 
+        "_default": {
+            "link": "DSE Parse App"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.12"
+    }
+}
